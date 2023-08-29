@@ -1,5 +1,4 @@
 # digitaltwin
-digitaltwin code
 project: 산업용 모터구동시스템의 실시간 운영 및 건전성 모니터링용 개방형 디지털트윈 플랫폼 개발
 
 *Summury
